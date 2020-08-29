@@ -14,8 +14,3 @@ Please visit https://www.instructables.com/id/Flex-Bot/ for an in depth explanat
 
 === Contributing
 To contribute to this project please contact 123453ANSH https://id.arduino.cc/123453ANSH
-
-=== Help
-This document is written in the _AsciiDoc_ format, a markup language to describe documents.
-If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
-or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
