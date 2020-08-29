@@ -10,7 +10,7 @@ VEX Robotics car that is controlled via one's bicep flex! Arduino microcontrolle
 
 == Installation/Creation 
 
-Please visit https://www.instructables.com/id/Flex-Bot/ for an in depth explanation of what this project is, and how to build it yourself! 190+ people have built this project by following the instructions on this page!
+Please visit https://www.instructables.com/id/Flex-Bot/ for an in depth explanation of what this project is, and how to build it yourself! 190+ people have used this page to build FlexBot or projects similar to it! 
 
 === Contributing
 To contribute to this project please contact 123453ANSH https://id.arduino.cc/123453ANSH
