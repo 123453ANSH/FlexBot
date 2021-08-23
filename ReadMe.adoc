@@ -12,7 +12,7 @@ VEX Robotics car that is controlled via one's bicep flex! Arduino microcontrolle
 
 Please visit https://www.instructables.com/id/Flex-Bot/ for an in depth explanation of what this project is (and to see videos of it in action!), and how to build it yourself! 190+ people have used this page to build FlexBot or projects similar to it! 
 
-= Project Creation Description 
+== Project Creation Description 
 
 - Designed and implemented mixed-signal, parallel circuit that powers and controls robot car with Arduino and muscle electrode
 - Created program that moves robot in a direction and at a speed based on muscle signal strength and frequency
